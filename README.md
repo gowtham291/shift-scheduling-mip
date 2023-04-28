@@ -1,2 +1,2 @@
-# shift-scheduling-mip
- Nurses' shift-schedulin, minimizing shift preference loss
+# Shift Scheduling - A Mixed Integer Problem
+ Nurses' shift-scheduling, minimizing shift preference loss
